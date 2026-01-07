@@ -57,9 +57,10 @@ implementations of **DQN (Deep Q-Network)** and **PPO (Proximal Policy Optimizat
 ```bash
 pip install gymnasium stable-baselines3 torch numpy
 
-### **2️⃣ Run environment demo**
+### 2️⃣ Run environment demo
 ```bash
 python task_1.py
+
 
 
 
