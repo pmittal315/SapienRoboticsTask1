@@ -89,6 +89,29 @@ python ppo.py
 python ppov.py
 ```
 
+---
+
+## 📊 Output Description
+
+When the scripts are executed:
+- A CartPole simulation window opens
+- The cart moves left or right based on agent actions
+- The pole attempts to stay balanced
+- Training improves agent performance over time
+- Evaluation scripts display the trained agent interacting with the environment
+
+This output demonstrates how reinforcement learning agents learn optimal policies through trial and error.
+
+---
+
+## 🧠 Key Concepts Used
+
+- Reinforcement Learning fundamentals
+- State, action, reward, and policy
+- Neural networks for value function approximation
+- Deep Q-Network (DQN)
+- Proximal Policy Optimization (PPO)
+- Training vs evaluation phases
 
 
 
