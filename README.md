@@ -1,7 +1,7 @@
 # Task 1 – Reinforcement Learning on CartPole-v1 Environment
 
-This repository contains **Task 1** implementation
-The task demonstrates the use of the **CartPole-v1** environment and basic
+This repository contains **Task 1** implementation,
+the task demonstrates the use of the **CartPole-v1** environment and basic
 implementations of **DQN (Deep Q-Network)** and **PPO (Proximal Policy Optimization)**.
 
 ---
