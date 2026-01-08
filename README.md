@@ -51,11 +51,44 @@ implementations of **DQN (Deep Q-Network)** and **PPO (Proximal Policy Optimizat
 
 ---
 
-## ▶ How to Run
+## ▶ How to Run the Code
 
-### 1️⃣ Install required libraries
+### 1️⃣ Create and activate virtual environment
 ```bash
-pip install gymnasium stable-baselines3 torch numpy
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+### 2️⃣ Install required libraries
+```bash
+pip install gymnasium stable-baselines3 torch numpy matplotlib
+``` 
+
+### 3️⃣ Run environment demo
+```bash
+python task_1.py
+```
+
+### 4️⃣ Run DQN training
+```bash
+python dqn.py
+```
+
+### 5️⃣ Run DQN visualization / evaluation
+```bash
+python dqnv.py
+```
+
+### 6️⃣ Run PPO training
+```bash
+python ppo.py
+```
+
+### 7️⃣ Run PPO visualization / evaluation
+```bash
+python ppov.py
+```
+
 
 
 
